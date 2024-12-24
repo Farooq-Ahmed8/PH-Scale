@@ -1,0 +1,97 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 500px;
+    height: 360px;
+    border: 1px solid black;
+    background-color: rgb(238, 233, 233);
+}
+h1{
+    background-color: white;
+}
+.h1h{
+    height: 20px;
+    background-color: rgb(36, 36, 250);
+    opacity: 0.3;
+    color: white;
+}
+.h2h{
+    height: 20px;
+    background-color: rgb(36, 36, 250);
+    opacity: 0.4;
+    color: white;
+}
+.h3h{
+    height: 20px;
+    background-color: rgb(36, 36, 250);
+    opacity: 0.5;
+    color: white;
+}
+.h4h{
+    height: 20px;
+    background-color: rgb(36, 36, 250);
+    opacity: 0.6;
+    color: white;
+}
+.h5h{
+    height: 20px;
+    background-color: rgb(36, 36, 250);
+    opacity: 0.7;
+    color: white;
+}
+.h6h{
+    height: 20px;
+    background-color: rgb(36, 36, 250);
+    opacity: 0.8;
+    color: white;
+}
+.h7h{
+    height: 20px;
+    background-color: rgb(36, 36, 250);
+    opacity: 0.9;
+    color: white;
+}
+.f1{
+    height: 20px;
+    background-color: rgb(245, 20, 20);
+    opacity: 0.3;
+    color: white;
+}
+.f2{
+    height: 20px;
+    background-color: rgb(245, 20, 20);
+    opacity: 0.4;
+    color: white;
+}
+.f3{
+    height: 20px;
+    background-color: rgb(245, 20, 20);
+    opacity: 0.5;
+    color: white;
+}
+.f4{
+    height: 20px;
+    background-color: rgb(245, 20, 20);
+    opacity: 0.6;
+    color: white;
+}
+.f5{
+    height: 20px;
+    background-color: rgb(245, 20, 20);
+    opacity: 0.7;
+    color: white;
+}
+.f6{
+    height: 20px;
+    background-color: rgb(245, 20, 20);
+    opacity: 0.8;
+    color: white;
+}
+.f7{
+    height: 20px;
+    background-color: rgb(245, 20, 20);
+    opacity: 0.9;
+    color: white;
+}
